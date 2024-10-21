@@ -1,0 +1,15 @@
+.header{
+    background-color: #5f6870;
+    color: white;
+}
+.nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 1rem;
+font-weight: 600;
+font-size: 35px;
+}
+.a{
+    margin: 30px;
+}

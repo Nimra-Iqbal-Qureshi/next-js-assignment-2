@@ -1,0 +1,14 @@
+.hero{
+    background-color: rgba(83, 95, 95, 0.452);
+    width: 70%;
+    margin-left: 220px;
+    
+}
+.h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 100px;
+    text-decoration: underline;
+    
+}
